@@ -1,0 +1,288 @@
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 11, 29, 16, 17, 43, 524278)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 2, 0, 10, 31, 533547)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 2, 1, 10, 31, 329421)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 2, 11, 36, 33, 925108)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 2, 12, 30, 15, 324553)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 2, 16, 30, 8, 122304)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 2, 18, 30, 9, 786128)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 2, 20, 30, 8, 659123)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2020, 12, 3, 0, 34, 17, 219680)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 3, 16, 54, 20, 67591)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 3, 20, 54, 14, 207377)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 4, 18, 30, 4, 269457)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 4, 20, 30, 48, 267909)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 5, 9, 53, 18, 787420)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 5, 10, 49, 53, 600955)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 5, 14, 49, 48, 391240)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 5, 16, 49, 43, 153923)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 5, 17, 49, 51, 150228)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 5, 23, 49, 47, 517059)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 6, 15, 33, 6, 585002)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 6, 21, 33, 6, 359758)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 6, 22, 33, 5, 687009)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 7, 0, 33, 5, 883232)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 7, 9, 55, 51, 804379)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 7, 20, 50, 17, 508042)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 7, 23, 50, 12, 885234)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x03D5CB38>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2020, 12, 8, 14, 48, 11, 379153)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x03EAE958>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2020, 12, 8, 15, 50, 12, 946464)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x037E9D78>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2020, 12, 9, 17, 55, 39, 734804)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 9, 21, 55, 49, 618474)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 10, 12, 22, 22, 604861)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 10, 14, 22, 5, 902698)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 10, 16, 22, 5, 373669)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 10, 17, 21, 58, 497715)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 10, 22, 21, 58, 373260)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x041D06A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2020, 12, 11, 10, 7, 38, 395054)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 11, 11, 6, 46, 907106)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 11, 12, 6, 47, 253948)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 11, 13, 6, 46, 911838)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 11, 14, 6, 52, 342993)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 11, 15, 6, 51, 287897)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 11, 18, 6, 51, 312333)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 11, 21, 6, 48, 541359)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 11, 22, 6, 48, 885133)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2020, 12, 12, 11, 15, 14, 347685)
+
+('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+datetime.datetime(2020, 12, 12, 12, 10, 16, 937313)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 12, 15, 10, 24, 176339)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 12, 21, 10, 31, 77180)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0388F940>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2020, 12, 13, 11, 31, 7, 919358)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 13, 12, 29, 36, 497358)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 13, 16, 29, 36, 852314)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 13, 17, 29, 30, 574080)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 13, 18, 29, 40, 489840)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 14, 10, 54, 12, 518060)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 14, 14, 54, 9, 439781)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 14, 15, 54, 9, 109622)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 14, 17, 54, 18, 536933)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 14, 20, 54, 8, 917186)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2020, 12, 15, 10, 42, 52, 695105)
+
+520 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2020, 12, 15, 14, 42, 13, 990620)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x03E6DA30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2020, 12, 17, 9, 29, 5, 289278)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0472BBC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2020, 12, 26, 12, 28, 45, 492532)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0403F9B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2020, 12, 30, 9, 51, 36, 668409)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2020, 12, 31, 15, 46, 18, 618145)
+
+504 Server Error: Gateway Time-out for url: https://www12.9anime.ru/home
+datetime.datetime(2021, 1, 4, 14, 3, 44, 841838)
+
+502 Server Error: Bad Gateway for url: https://www12.9anime.ru/home
+datetime.datetime(2021, 1, 4, 15, 3, 30, 827743)
+
+504 Server Error: Gateway Time-out for url: https://www12.9anime.ru/home
+datetime.datetime(2021, 1, 4, 16, 3, 57, 326051)
+
+502 Server Error: Bad Gateway for url: https://www12.9anime.ru/home
+datetime.datetime(2021, 1, 4, 19, 3, 36, 918932)
+
+502 Server Error: Bad Gateway for url: https://www12.9anime.ru/home
+datetime.datetime(2021, 1, 4, 20, 3, 39, 763095)
+
+504 Server Error: Gateway Time-out for url: https://www12.9anime.ru/home
+datetime.datetime(2021, 1, 5, 0, 3, 46, 223017)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2021, 1, 6, 2, 22, 58, 468054)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2021, 1, 6, 14, 17, 43, 888172)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2021, 1, 8, 14, 53, 2, 198758)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2021, 1, 8, 16, 52, 59, 843193)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x038BF9A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2021, 1, 11, 12, 21, 36, 821676)
+
+522 Server Error:  for url: https://www12.9anime.ru/home
+datetime.datetime(2021, 1, 11, 14, 20, 19, 868877)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2021, 1, 12, 15, 51, 34, 261022)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x03ECF8B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2021, 1, 12, 19, 51, 4, 85861)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x03BFE9A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2021, 1, 13, 10, 55, 22, 702252)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2021, 1, 14, 12, 36, 47, 924736)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2021, 1, 14, 13, 44, 0, 760267)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x03E9E9B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2021, 1, 17, 10, 6, 45, 241180)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0461CB98>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2021, 1, 18, 13, 8, 46, 127391)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2021, 1, 19, 10, 36, 12, 652059)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2021, 1, 21, 18, 5, 26, 975118)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2021, 1, 25, 12, 18, 58, 663598)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x038907D8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2021, 1, 26, 11, 36, 46, 493225)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x03FB0778>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2021, 1, 28, 14, 12, 9, 195779)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x03F3BBC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2021, 1, 30, 1, 34, 11, 608038)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0454CB20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2021, 1, 30, 2, 34, 18, 438637)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2021, 1, 31, 13, 10, 21, 557484)
+
+502 Server Error: Bad Gateway for url: https://www12.9anime.ru/home
+datetime.datetime(2021, 2, 1, 18, 36, 36, 895190)
+
+502 Server Error: Bad Gateway for url: https://www12.9anime.ru/home
+datetime.datetime(2021, 2, 1, 19, 36, 30, 212427)
+
+502 Server Error: Bad Gateway for url: https://www12.9anime.ru/home
+datetime.datetime(2021, 2, 1, 20, 36, 29, 979487)
+
+('Connection aborted.', OSError(0, 'Error'))
+datetime.datetime(2021, 2, 2, 15, 42, 12, 441237)
+
+HTTPSConnectionPool(host='www12.9anime.ru', port=443): Max retries exceeded with url: /home (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0457BBC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+datetime.datetime(2021, 2, 4, 12, 34, 5, 86800)
+
