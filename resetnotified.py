@@ -1,0 +1,1 @@
+open('alreadynotifiedanimelist.txt', 'w').close()
